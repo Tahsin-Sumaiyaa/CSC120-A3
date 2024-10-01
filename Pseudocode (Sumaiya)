@@ -1,0 +1,18 @@
+This is my pseudocode to start my java code project:
+
+1. Creating a method to define the assigned mirror words of certain pronouns.
+
+2. Creating a method to store some fixed responses if no mirror word is found.
+
+3. Creating a method to store the responses in a transcript.
+
+4. Creating the main function that will carry all the commands:
+-  a. Asking user how many rounds of convo do they want.
+-  b. Printing a welcoming message. Ex: Hello. What's on your mind? And saving that in transcript.
+-  c. Receiving users response, finding mirror words, saving the response in the transcript.
+-  d. Answering---> if mirror word: Changing the mirror word and adding a "?" at the end.
+      else: Giving a random fixed response
+      Saving the response in the transcript.
+-  e. Repeat c and d
+-  f. Ending convo with a fixed response. Ex: It was a nice convo. But I have to go charge myself now :3. See yaaa! 
+      And of course saving that in transcript.                 
